@@ -1,3 +1,6 @@
+# 利用 revel 框架做成的照片分享例子
+> 值得好好学习。
+
 A Revel app for group photo sharing.  Instead of being oriented around user
 albums, oriented around a trip to which anyone can submit photos.  The
 differentiator thing is making upload and download very easy.
